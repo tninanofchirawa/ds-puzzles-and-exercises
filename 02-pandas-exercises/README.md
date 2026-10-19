@@ -30,7 +30,7 @@ The repository is organized into topic-based directories to make individual exer
 | `04-time-series/` | Time-Series Analysis | Datetime conversion, `.resample()`, rolling windows, time-based indexing | ⏳ Pending |
 | `05-stats-and-visualization/` | Statistics & Exploratory Data Analysis | Descriptive statistics, quantiles, `.describe()`, correlations, visualizations | ⏳ Pending |
 
-*Update the directory names and completion statuses to match the actual contents of your repository.*
+*Directory names, topics, and completion statuses will be updated as work progresses.*
 
 ---
 
