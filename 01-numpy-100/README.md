@@ -53,7 +53,7 @@ The goal is to develop an array-oriented way of thinking that transfers to large
 Replace `<your-username>` with your GitHub username.
 
 ```bash
-git clone https://github.com/<your-username>/numpy-100-solutions.git
+git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
 cd numpy-100-solutions
 ```
 
