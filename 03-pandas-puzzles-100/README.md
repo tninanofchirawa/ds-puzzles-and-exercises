@@ -4,7 +4,7 @@
 [![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> "There are a hundred ways to slice a DataFrame, and roughly ninety-nine of them will trigger a `SettingWithCopyWarning` if you don't know what you're doing."
+> *"There are a hundred ways to slice a DataFrame, and roughly ninety-nine of them will trigger a `SettingWithCopyWarning` if you don't know what you're doing."*
 
 Welcome to **100 Pandas Puzzles — Practice Solutions**! 🐼
 
