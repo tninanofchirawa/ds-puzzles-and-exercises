@@ -56,7 +56,7 @@ Replace `<your-username>` with your GitHub username.
 
 ```bash
 git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
-cd 100-pandas-puzzles-solutions
+cd 03-pandas-puzzles-100
 ```
 
 ### 2. Create a Virtual Environment
