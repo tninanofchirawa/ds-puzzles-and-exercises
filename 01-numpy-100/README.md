@@ -27,7 +27,7 @@ The solutions are organized into topic-based directories for easier navigation a
 | `03-linear-algebra-and-ops/` | Linear Algebra & Vectorization | Dot products, inner and outer products, matrix operations, `np.linalg`, norms, eigenvalues | ⏳ Pending |
 | `04-advanced-and-miscellaneous/` | Advanced Arrays & Memory Layouts | Strides, structured arrays, universal functions, byte order, advanced indexing | ⏳ Pending |
 
-*Update the directory names and completion statuses to reflect the actual contents of your repository.*
+*Directory names, topics, and completion statuses will be updated as work progresses.*
 
 ---
 
