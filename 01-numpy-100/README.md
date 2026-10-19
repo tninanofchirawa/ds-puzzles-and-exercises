@@ -54,7 +54,7 @@ Replace `<your-username>` with your GitHub username.
 
 ```bash
 git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
-cd numpy-100-solutions
+cd 01-numpy-100
 ```
 
 ### 2. Create a Virtual Environment
