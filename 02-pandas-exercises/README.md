@@ -24,11 +24,11 @@ The repository is organized into topic-based directories to make individual exer
 
 | Directory | Topic | Key Operations & Concepts | Status |
 |---|---|---|:---:|
-| `01-filtering-and-sorting/` | Filtering & Sorting | Boolean indexing, `.loc`, `.query()`, `.sort_values()`, conditional selection | ✅ Solved |
-| `02-grouping/` | Grouping & Aggregation | `.groupby()`, `.agg()`, `.transform()`, custom aggregations, multi-column grouping | ✅ Solved |
-| `03-merge-and-joins/` | Merging & Combining Data | `pd.merge()`, join types, merge indicators, `pd.concat()`, index alignment | ✅ Solved |
-| `04-time-series/` | Time-Series Analysis | Datetime conversion, `.resample()`, rolling windows, time-based indexing | ✅ Solved |
-| `05-stats-and-visualization/` | Statistics & Exploratory Data Analysis | Descriptive statistics, quantiles, `.describe()`, correlations, visualizations | ✅ Solved |
+| `01-filtering-and-sorting/` | Filtering & Sorting | Boolean indexing, `.loc`, `.query()`, `.sort_values()`, conditional selection | 🔄 In Progress |
+| `02-grouping/` | Grouping & Aggregation | `.groupby()`, `.agg()`, `.transform()`, custom aggregations, multi-column grouping | ⏳ Pending |
+| `03-merge-and-joins/` | Merging & Combining Data | `pd.merge()`, join types, merge indicators, `pd.concat()`, index alignment | ⏳ Pending |
+| `04-time-series/` | Time-Series Analysis | Datetime conversion, `.resample()`, rolling windows, time-based indexing | ⏳ Pending |
+| `05-stats-and-visualization/` | Statistics & Exploratory Data Analysis | Descriptive statistics, quantiles, `.describe()`, correlations, visualizations | ⏳ Pending |
 
 *Update the directory names and completion statuses to match the actual contents of your repository.*
 
