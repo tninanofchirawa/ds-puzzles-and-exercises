@@ -58,11 +58,12 @@ Real-world data analysis requires more than knowing which Pandas method to call.
 
 ### 1. Clone the Repository
 
-Replace `<your-username>` with your GitHub username.
-
 ```bash
+# Clone the repository
 git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
-cd 02-pandas-exercises
+
+# Navigate to the Pandas exercises
+cd ds-puzzles-and-exercises/02-pandas-exercises
 ```
 
 ### 2. Create a Virtual Environment
