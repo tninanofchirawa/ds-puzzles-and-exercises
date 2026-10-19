@@ -50,11 +50,12 @@ The goal is to develop an array-oriented way of thinking that transfers to large
 
 ### 1. Clone the Repository
 
-Replace `<your-username>` with your GitHub username.
-
 ```bash
+# Clone the repository
 git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
-cd 01-numpy-100
+
+# Navigate to the NumPy exercises
+cd ds-puzzles-and-exercises/01-numpy-100
 ```
 
 ### 2. Create a Virtual Environment
