@@ -55,7 +55,7 @@ The goal is to build practical skills that transfer to real-world data analysis,
 Replace `<your-username>` with your GitHub username.
 
 ```bash
-git clone https://github.com/<your-username>/100-pandas-puzzles-solutions.git
+git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
 cd 100-pandas-puzzles-solutions
 ```
 
