@@ -30,7 +30,7 @@ The solutions are organized into topic-based directories to make learning and re
 | `04-multi-indexing-and-slicing/` | MultiIndex & Slicing            | Hierarchical indexing, tuple-based slicing, `.xs()`, swapping levels, `unstack()`  | ⏳ Pending |
 | `05-window-and-time/`            | Time Series & Window Operations | Rolling windows, `.shift()`, datetime conversion, frequency offsets                | ⏳ Pending |
 
-_Progress reflects the current state of the repository and may change as more solutions are added._
+*Directory names, topics, and completion statuses will be updated as work progresses.*
 
 ---
 
@@ -52,11 +52,12 @@ The goal is to build practical skills that transfer to real-world data analysis,
 
 ### 1. Clone the Repository
 
-Replace `<your-username>` with your GitHub username.
-
 ```bash
+# Clone the repository
 git clone https://github.com/tninanofchirawa/ds-puzzles-and-exercises.git
-cd 03-pandas-puzzles-100
+
+# Navigate to the 100 Pandas Puzzles
+cd ds-puzzles-and-exercises/03-pandas-puzzles-100
 ```
 
 ### 2. Create a Virtual Environment
